@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Compiling Yantrr Vayu Drivers on Android\n\n\nNote :\n All steps are executed on the Ubuntu 12.04 LTS and as a root user. Most of the steps are exactly same as described in the EEWiki Android page and originally on Andrew Henderson's Android page. Only the RILD portion needs to be added for the 3G modem.\n\n\nBasic Requirements\n\n\nCOMING SOON", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#compiling-yantrr-vayu-drivers-on-android", 
+            "text": "Note :  All steps are executed on the Ubuntu 12.04 LTS and as a root user. Most of the steps are exactly same as described in the EEWiki Android page and originally on Andrew Henderson's Android page. Only the RILD portion needs to be added for the 3G modem.  Basic Requirements  COMING SOON", 
+            "title": "Compiling Yantrr Vayu Drivers on Android"
+        }
+    ]
+}
